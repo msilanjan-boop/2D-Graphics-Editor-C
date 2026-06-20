@@ -13,8 +13,10 @@ A menu driven graphics editor developed in C using a 2D character array.
 * Delete Objects
 * Display Picture
 
-Language: C
+Language: 
+C
 IDE: Code::Blocks
+
 ## Author
 
 Silanjan Mukherjee
