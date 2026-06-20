@@ -19,4 +19,5 @@ C Programming
 
 ## Author
 
-Your Name
+Silanjan Mukherjee
+
